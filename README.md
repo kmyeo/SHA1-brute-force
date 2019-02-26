@@ -2,8 +2,8 @@
 ## Assignment 2 - SHA1 Python brute force script 
 ## To run the script:
 - Download Python 2.7
-- Set PATH environment variable with Python install directory
-- Run script with the command prompt.
+- Set PATH environment variable with Python installation directory
+- Navigate to the script's location in the command prompt and run.
 
 ## Solutions for the provided SHA1 hashes
 1. **b7a875fc1ea228b9061041b7cec4bd3c52ab3ce3**
